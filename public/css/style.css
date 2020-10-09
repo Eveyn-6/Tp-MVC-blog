@@ -1,0 +1,33 @@
+                    h1,
+                    h3 {
+                        text-align: center;
+                    }
+                    
+                    h2 {
+                        text-decoration: underline;
+                        color: #3a2222ea;
+                    }
+                    
+                    h3 {
+                        background-color: rgb(202, 157, 238);
+                        color: rgb(32, 24, 24);
+                        font-size: 0.9em;
+                        margin-bottom: 0px;
+                        padding: 20px;
+                    }
+                    
+                    .news p {
+                        background-color: #9b93937a;
+                        border-radius: 0px 0px 10px 0px;
+                        margin-top: 0px;
+                    }
+                    
+                    .news {
+                        width: 70%;
+                        margin: auto;
+                    }
+                    
+                    a:hover {
+                        text-decoration: none;
+                        color: #4c484d;
+                    }
